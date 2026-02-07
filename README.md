@@ -2,6 +2,8 @@
 
 A simple Windows application that compresses video files to under 10 MB, in order to fit Discord's file size limit. Drag a video onto the `.exe` file and it will automatically create a compressed version in the same folder.
 
+[Download here](https://github.com/CombineBenefactor/Discord-Video-Compressor/releases)
+
 ## Features
 - Automatically calculates bitrate to maximize quality while staying under 10 MB.
 - Works with any video length.
